@@ -1,0 +1,9 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
+		<prescription link="/LeeReindeer/rx-wechat" />
+		<prescription link="/liangyuteng0927/rx-qq" />
+		<prescription link="/oasisfeng/rx-taobao-web-jump" />
+		<prescription link="/WitherZuo/rx-coolapk-nosplash" />
+		<prescription link="/zjns/rx-NeteaseCloudMusic" />
+		<prescription link="/oasisfeng/rx-getui-wakeups" />
+		<prescription link="/oasisfeng/rx-sogou-push" />
+</prescriptions>
